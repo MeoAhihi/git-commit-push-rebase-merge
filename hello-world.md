@@ -1,1 +1,1 @@
-"Hello, World!" 
+"Konnichiwa, Sekai!" 
